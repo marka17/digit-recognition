@@ -4,7 +4,7 @@
 - [ ] QuartzNet https://arxiv.org/pdf/1910.10261.pdf
 
 ## Short Description
-Work based in Jasper and CTC.
+Work based on Jasper and CTC.
 The trained model is at the root directory: `weights.pth`
 
 ## Eval
