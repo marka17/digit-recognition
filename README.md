@@ -1,5 +1,6 @@
 ## Papers:
 - [x] Jasper https://arxiv.org/pdf/1904.03288.pdf
+- [x] CTC https://www.cs.toronto.edu/~graves/icml_2006.pdf
 - [ ] QuartzNet https://arxiv.org/pdf/1910.10261.pdf
 
 ## Short Description
