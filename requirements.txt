@@ -1,0 +1,15 @@
+toml
+requests
+pandas
+torch
+torchaudio
+librosa
+h5py
+attrs
+matplotlib
+scikit-learn
+tqdm
+numpy
+tensorboard==2.1.0
+jupyter
+python-Levenshtein
